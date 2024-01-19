@@ -38,3 +38,4 @@ Divirta-se jogando!
 
 Desenvolvedor: Lúci Abreu
 https://www.linkedin.com/in/luciara-abreu/
+https://jogo-do-numero-secreto-zeta-nine.vercel.app/
